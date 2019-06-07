@@ -4,7 +4,7 @@ author: Nick Hood
 github: https://github.com/cullaloe
 about: Interdisciplinary STEM and Sustainability ideas for teachers, by PGDE students at Moray House, Edinburgh.
 # disqus_shortname: stackproblems
-# google_analytics: UA-XXXXXXXX-Y
+google_analytics: UA-29251809-4
 avatar_url: /static/img/logo.png
 
 enableTags: true
