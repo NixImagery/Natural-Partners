@@ -10,7 +10,6 @@ image: /files/2018/12/Madagascar_bourbon_vanilla_x-e1545225642493.jpg
 categories:
   - Biology
   - Chemistry
-  - History
   - Home Economics
   - Social Studies
 tags:
