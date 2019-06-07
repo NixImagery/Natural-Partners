@@ -12,7 +12,6 @@ image: /files/2016/05/Hog-e1463235175256.png
 categories:
   - Biology
   - Design and Technology
-  - Interdisciplinary Learning
   - Social Studies
 tags:
   - HWB 3-01a

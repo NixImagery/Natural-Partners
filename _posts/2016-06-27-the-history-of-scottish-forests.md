@@ -10,8 +10,9 @@ dsq_thread_id:
   - "5200275071"
 image: /files/2016/06/Untitled.png
 categories:
-  - Interdisciplinary Learning
   - Science
+  - Literacy
+  - Numeracy
   - Social Studies
 tags:
   - LIT 3-02a

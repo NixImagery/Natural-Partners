@@ -12,7 +12,6 @@ image: /files/2016/05/Putting-the-HOPE-back-into-Hope-Hill-Poster_HannahOBoyle.p
 categories:
   - Biology
   - Design and Technology
-  - Interdisciplinary Learning
   - Physics
   - Social Studies
 tags:

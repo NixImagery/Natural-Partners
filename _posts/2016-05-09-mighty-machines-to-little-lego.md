@@ -11,7 +11,6 @@ dsq_thread_id:
 image: /files/2016/05/Lego-Trees-Poster-img.png
 categories:
   - Design and Technology
-  - Interdisciplinary Learning
   - Mathematics
   - Science
 tags:

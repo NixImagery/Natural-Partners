@@ -12,7 +12,6 @@ image: /files/2016/05/sean-BEEs.png
 categories:
   - Biology
   - Design and Technology
-  - Interdisciplinary Learning
 tags:
   - National 4
   - TCH 4-13a

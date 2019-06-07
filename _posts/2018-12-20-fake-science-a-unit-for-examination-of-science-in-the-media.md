@@ -6,7 +6,6 @@ layout: post
 permalink: /2018/12/20/fake-science-a-unit-for-examination-of-science-in-the-media/
 image: /files/2018/12/aldrin_apollo11-copy-e1545332973943.jpg
 categories:
-  - Interdisciplinary Learning
   - Literacy
   - Numeracy
   - Science

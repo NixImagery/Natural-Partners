@@ -12,7 +12,6 @@ image: /files/2016/06/Untitled-1.png
 categories:
   - Biology
   - Design and Technology
-  - Interdisciplinary Learning
 ---
 There are currently millions of pallets in circulation across the UK. The industry itself is worth over £260 million per year. After their initial use a variety of things can happen to a pallet: it can be discarded and put to landfill; reused multiple times and then put to landfill; refurbished, reused but it still ends up in landfill.
 

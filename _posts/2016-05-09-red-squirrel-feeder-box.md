@@ -12,7 +12,6 @@ image: /files/2016/05/Jonny-CP2-Booklet.png
 categories:
   - Biology
   - Design and Technology
-  - Interdisciplinary Learning
   - Social Studies
 tags:
   - HWB 4-10a

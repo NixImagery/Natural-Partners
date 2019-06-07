@@ -11,7 +11,6 @@ dsq_thread_id:
 image: /files/2016/05/Shehraz-Ditta-GS-Poster.png
 categories:
   - Design and Technology
-  - Interdisciplinary Learning
   - Mathematics
   - Science
 tags:

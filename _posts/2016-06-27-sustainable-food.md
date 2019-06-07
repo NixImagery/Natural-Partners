@@ -12,7 +12,6 @@ image: /files/2016/06/General-science-kimr.png
 categories:
   - Biology
   - Design and Technology
-  - Interdisciplinary Learning
   - Social Studies
 tags:
   - HWB 2-25a

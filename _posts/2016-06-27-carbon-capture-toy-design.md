@@ -11,7 +11,6 @@ dsq_thread_id:
   - "4942395292"
 categories:
   - Design and Technology
-  - Interdisciplinary Learning
   - Science
 ---
 Focusing on carbon capture in this unit of work the learners will adapt a "wood is good" approach and understand that trees take in CO<sub>2</sub> and trap the carbon content within it. Through IDL the learners will explore the carbon content within different types of wood. By calculating the carbon content plus the hours spent on an electrical device the learners can work out how much Sitka spruce will be needed to trap their carbon emissions for one week.

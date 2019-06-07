@@ -12,7 +12,6 @@ categories:
   - Chemistry
   - History
   - Home Economics
-  - Interdisciplinary Learning
   - Social Studies
 tags:
   - HWB 3-01a

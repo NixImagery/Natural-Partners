@@ -11,7 +11,6 @@ dsq_thread_id:
 image: /files/2016/05/derek-bats.png
 categories:
   - Design and Technology
-  - Interdisciplinary Learning
   - Science
   - Social Studies
 tags:
