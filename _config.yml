@@ -1,51 +1,52 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+title: The Natural Partners Project
+description: STEM and Sustainability in and through education
+author: Nick Hood
+github: https://github.com/cullaloe
+about: Interdisciplinary STEM and Sustainability ideas for teachers, by PGDE students at Moray House, Edinburgh.
+# disqus_shortname: stackproblems
+# google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/logo.png
 
 enableTags: true
 tagarray: []
 
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
+# collections:
+#   project:
+#     output: true
+#     permalink: /project/:path/
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/NaturalPartnersProject/"
     - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://twitter.com/naturlpartners"
+    # - icon: fa-linkedin
+    #   link: "#"
+    # - icon: fa-stack-exchange
+    #   link: "#"
+    # - icon: fa-github
+    #   link: "https://github.com/agusmakmun"
 
 share:
-  twitter_username: github.io
+  twitter_username: naturlpartners
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
+    - text: About / Information
       url: /about/
-    - text: My Projects
-      url: /projects/
+    # - text: Projects
+    #   url: /projects/
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://naturalpartnersproject.org/"
 baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+
+plugins:
   - jekyll-paginate
   - jekyll-gist
 

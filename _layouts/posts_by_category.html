@@ -43,7 +43,9 @@ layout: default
         </div>
       {% endif %}
     {% endfor %}
+  {% elsif page.categories == "All" %}
+    <p>Select a category button.</p>
   {% else %}
-    <p>There are no posts in this categories.</p>
+    <p>There are no posts in this category.</p>
   {% endif %}
 </div>
