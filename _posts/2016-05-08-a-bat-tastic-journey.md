@@ -12,6 +12,7 @@ image: /files/2016/05/derek-bats.png
 categories:
   - Design and Technology
   - Science
+  - Health and Wellbeing
   - Social Studies
 tags:
   - EXA 4-06a

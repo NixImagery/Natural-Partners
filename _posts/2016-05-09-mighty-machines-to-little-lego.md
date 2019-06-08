@@ -13,6 +13,7 @@ categories:
   - Design and Technology
   - Mathematics
   - Science
+  - Health and Wellbeing
 tags:
   - HWB 4-16a
   - LIT 4-02a

@@ -11,6 +11,7 @@ categories:
   - Biology
   - Chemistry
   - Home Economics
+  - Health and Wellbeing
   - Social Studies
 tags:
   - HWB 3-01a

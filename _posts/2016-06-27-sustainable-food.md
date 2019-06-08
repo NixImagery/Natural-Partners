@@ -13,6 +13,7 @@ categories:
   - Biology
   - Design and Technology
   - Social Studies
+  - Health and Wellbeing
 tags:
   - HWB 2-25a
   - HWB 2-34a
