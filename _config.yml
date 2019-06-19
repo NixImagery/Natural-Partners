@@ -4,7 +4,7 @@ author: Nick Hood
 github: https://github.com/cullaloe
 about: IDL, STEM, Sustainability.
 # disqus_shortname: stackproblems
-google_analytics: UA-29251809-4
+google_analytics: "UA-29251809-4"
 avatar_url: /static/img/logo.png
 
 enableTags: true
