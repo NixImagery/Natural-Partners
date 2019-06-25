@@ -43,18 +43,10 @@ tags:
   - SOC 3-15a
   - SOC 3-18a
 ---
-<!-- wp:paragraph -->
-<p>Vanilla is one of the most common and powerful ingredients found in many sweet treats worldwide, however, the story of its production is anything but vanilla! Being the second most expensive spice in the world after saffron; per kilo vanilla has a value greater than that of silver, which isn’t helped by the fact 80% of the world’s vanilla supply is grown by one island nation – Madagascar. During this unit of work, pupils will use a variety of interdisciplinary learning to understand the below topics of interest related to the overall sustainability of this fascinating orchid. </p>
-<!-- /wp:paragraph -->
+Vanilla is one of the most common and powerful ingredients found in many sweet treats worldwide, however, the story of its production is anything but vanilla! Being the second most expensive spice in the world after saffron; per kilo vanilla has a value greater than that of silver, which isn’t helped by the fact 80% of the world’s vanilla supply is grown by one island nation – Madagascar. During this unit of work, pupils will use a variety of interdisciplinary learning to understand the below topics of interest related to the overall sustainability of this fascinating orchid. 
 
-<!-- wp:paragraph -->
-<p>This poster was presented at the <a href="https://www.rse.org.uk/event/interdisciplinary-learning-creative-thinking-for-a-complex-world/">RSE Conference on Interdisciplinary Learning</a> in January.</p>
-<!-- /wp:paragraph -->
+This poster was presented at the [RSE Conference on Interdisciplinary Learning](https://www.rse.org.uk/event/interdisciplinary-learning-creative-thinking-for-a-complex-world/) in January.
 
-<!-- wp:file {"id":600,"href":"https://naturalpartnersproject.org/files/2018/12/RSE-Sustainability-of-Vanilla-Poster.pdf"} -->
-<div class="wp-block-file"><a href="/files/2018/12/RSE-Sustainability-of-Vanilla-Poster.pdf">RSE Sustainability of Vanilla Poster</a> <a href="/files/2018/12/RSE-Sustainability-of-Vanilla-Poster.pdf" class="btn btn-sm btn-default" download>Download</a></div>
-<!-- /wp:file -->
+[RSE Sustainability of Vanilla Poster](]/files/2018/12/RSE-Sustainability-of-Vanilla-Poster.pdf) <a href="/files/2018/12/RSE-Sustainability-of-Vanilla-Poster.pdf" class="btn btn-sm btn-default" download>Download</a>
 
-<!-- wp:paragraph -->
-<p><em>Featured Image © Yarden Sachs CC-BY-SA-3.0 via Wikimedia Commons</em></p>
-<!-- /wp:paragraph -->
+*Featured Image © Yarden Sachs CC-BY-SA-3.0 via Wikimedia Commons*
