@@ -17,18 +17,10 @@ tags:
   - SCN 3-20b
   - SCN 4-20b
 ---
-<!-- wp:paragraph -->
-<p>The media is all around us, and informs our opinions and impressions of the world every day. This is especially true for science reporting, and children should know how to regard media representations of scientific discoveries, theories and public information with a critical eye. This sequence of lessons aims to facilitate pupils’ deeper engagement with such content.</p>
-<!-- /wp:paragraph -->
+<p>The media is all around us, and informs our opinions and impressions of the world every day. This is especially true for science reporting, and children should know how to regard media representations of scientific discoveries, theories and public information with a critical eye. This sequence of lessons aims to facilitate pupils’ deeper engagement with such content.
 
-<!-- wp:paragraph -->
-<p>This poster was presented at the&nbsp;<a href="https://www.rse.org.uk/event/interdisciplinary-learning-creative-thinking-for-a-complex-world/">RSE Conference on&nbsp;Interdisciplinary Learning</a>&nbsp;in January 2019.</p>
-<!-- /wp:paragraph -->
+This poster was presented at the [RSE Conference on Interdisciplinary Learning](https://www.rse.org.uk/event/interdisciplinary-learning-creative-thinking-for-a-complex-world/) in January 2019.
 
-<!-- wp:file {"id":620,"href":"https://naturalpartnersproject.org/files/2018/12/RSE-Fake-Science-Poster.png"} -->
-<div class="wp-block-file"><a href="/files/2018/12/RSE-Fake-Science-Poster.png">RSE Fake Science Poster</a> <a href="/files/2018/12/RSE-Fake-Science-Poster.png" class="btn btn-sm btn-default" download>Download</a></div>
-<!-- /wp:file -->
+[RSE Fake Science Poster](/files/2018/12/RSE-Fake-Science-Poster.png) <a href="/files/2018/12/RSE-Fake-Science-Poster.png" class="btn btn-sm btn-default" download>Download</a>
 
-<!-- wp:paragraph -->
-<p><em>Featured&nbsp;Image © NASA&nbsp;1969,&nbsp;modified&nbsp;with original photo ©&nbsp;Nick&nbsp;Hood&nbsp;2011</em></p>
-<!-- /wp:paragraph -->
+*Featured Image © NASA 1969, modified with original photo © Nick Hood 2011*
