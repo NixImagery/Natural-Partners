@@ -22,4 +22,4 @@ Aims of the unit are:
 
 The presentation includes links to further resources.
 
-<div class="wp-block-file"><a href="/files/2019/06/bioplastics.pptx">Unit proposal (Powerpoint file)</a> <a href="/files/2019/06/bioplastics.pptx" class="btn btn-sm btn-default" download>Download</a></div>
+<div class="wp-block-file"><a href="/files/2019/06/Bioplastics.pptx">Unit proposal (Powerpoint file)</a> <a href="/files/2019/06/Bioplastics.pptx" class="btn btn-sm btn-default" download>Download</a></div>
