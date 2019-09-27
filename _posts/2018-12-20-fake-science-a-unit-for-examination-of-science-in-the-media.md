@@ -17,7 +17,7 @@ tags:
   - SCN 3-20b
   - SCN 4-20b
 ---
-<p>The media is all around us, and informs our opinions and impressions of the world every day. This is especially true for science reporting, and children should know how to regard media representations of scientific discoveries, theories and public information with a critical eye. This sequence of lessons aims to facilitate pupils’ deeper engagement with such content.
+The media is all around us, and informs our opinions and impressions of the world every day. This is especially true for science reporting, and children should know how to regard media representations of scientific discoveries, theories and public information with a critical eye. This sequence of lessons aims to facilitate pupils’ deeper engagement with such content.
 
 This poster was presented at the [RSE Conference on Interdisciplinary Learning](https://www.rse.org.uk/event/interdisciplinary-learning-creative-thinking-for-a-complex-world/) in January 2019.
 
