@@ -47,6 +47,6 @@ Vanilla is one of the most common and powerful ingredients found in many sweet t
 
 This poster was presented at the [RSE Conference on Interdisciplinary Learning](https://www.rse.org.uk/event/interdisciplinary-learning-creative-thinking-for-a-complex-world/) in January.
 
-[RSE Sustainability of Vanilla Poster](]/files/2018/12/RSE-Sustainability-of-Vanilla-Poster.pdf) <a href="/files/2018/12/RSE-Sustainability-of-Vanilla-Poster.pdf" class="btn btn-sm btn-default" download>Download</a>
+[RSE Sustainability of Vanilla Poster](/files/2018/12/RSE-Sustainability-of-Vanilla-Poster.pdf) <a href="/files/2018/12/RSE-Sustainability-of-Vanilla-Poster.pdf" class="btn btn-sm btn-default" download>Download</a>
 
 *Featured Image © Yarden Sachs CC-BY-SA-3.0 via Wikimedia Commons*
