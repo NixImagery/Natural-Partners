@@ -12,7 +12,7 @@ categories:
   - Gaelic
 ---
 
-This presentation proposes an interdisciplinary project which focuses on Iodine: it's use in chemistry demonstrations, importance to health, and its extraction from seaweed related to the history of the Scottish kelp industry. 
+This presentation proposes an interdisciplinary project which focuses on Iodine: its use in chemistry demonstrations, importance to health, and its extraction from seaweed related to the history of the Scottish kelp industry. 
 
 In this unit leaners will:
 
