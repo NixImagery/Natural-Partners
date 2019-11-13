@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Projects
+published: no
 permalink: /projects/
 ---
 
