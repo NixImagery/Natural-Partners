@@ -2,6 +2,7 @@
 title: 'Bioplastics'
 date: 2018-11-13T13:37
 author: Nick Hood
+creator: Jonathon Marks
 layout: post
 permalink: /2019/06/08/bioplastics/
 image: /files/2019/06/bioplastics.png
@@ -22,4 +23,4 @@ Aims of the unit are:
 
 The presentation includes links to further resources.
 
-<div class="wp-block-file"><a href="/files/2019/06/Bioplastics.pptx">Unit proposal (Powerpoint file)</a> <a href="/files/2019/06/Bioplastics.pptx" class="btn btn-sm btn-default" download>Download</a></div>
+<div class="wp-block-file"><a href="/files/2019/06/Bioplastics.pdf">Unit proposal (pdf)</a> <a href="/files/2019/06/Bioplastics.pdf" class="btn btn-sm btn-default" download>Download</a></div>

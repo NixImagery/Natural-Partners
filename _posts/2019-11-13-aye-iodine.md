@@ -2,6 +2,7 @@
 title: 'Aye, Iodine!'
 date: 2019-11-13T16:40
 author: Nick Hood
+creator: Lewis Fenton
 layout: post
 permalink: /2019/11/13/aye-iodine/
 image: /files/2019/11/aye-iodine.png

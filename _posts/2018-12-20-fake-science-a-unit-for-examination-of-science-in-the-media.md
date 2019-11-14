@@ -2,6 +2,7 @@
 title: 'Fake Science: A Unit for Examination of Science in the Media'
 date: 2018-12-20T18:53:38+00:00
 author: Nick Hood
+creator: Tom Bird
 layout: post
 permalink: /2018/12/20/fake-science-a-unit-for-examination-of-science-in-the-media/
 image: /files/2018/12/aldrin_apollo11-copy-e1545332973943.jpg
