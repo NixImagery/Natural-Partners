@@ -18,6 +18,12 @@ span.time, span.categories {
   margin-bottom: 5px;
   font-size: 11px;
 }
+span.creator {
+  color: #ADADAD;
+  margin-bottom: 5px;
+  font-size: 11px;
+  font-style: italic;
+}
 h1, h2, h3 {
   color: #696969;
   font-weight: normal;
