@@ -3,6 +3,7 @@ id: 74
 title: Putting the Hope back in Hope Hill
 date: 2016-05-10T20:25:26+00:00
 author: Nick Hood
+creator: Hannah Boyle
 layout: post
 guid: /?p=74
 permalink: /2016/05/10/putting-the-hope-back-in-hope-hill/

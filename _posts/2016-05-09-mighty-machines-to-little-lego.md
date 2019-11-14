@@ -3,6 +3,7 @@ id: 40
 title: Mighty Machines to Little Lego
 date: 2016-05-09T16:00:43+00:00
 author: Nick Hood
+creator: Cat Provan
 layout: post
 guid: /?p=40
 permalink: /2016/05/09/mighty-machines-to-little-lego/

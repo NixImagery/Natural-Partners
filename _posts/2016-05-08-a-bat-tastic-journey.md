@@ -3,6 +3,7 @@ id: 21
 title: A Bat-tastic Journey
 date: 2016-05-08T20:05:55+00:00
 author: Nick Hood
+creator: Derek Boath
 layout: post
 guid: /?p=21
 permalink: /2016/05/08/a-bat-tastic-journey/

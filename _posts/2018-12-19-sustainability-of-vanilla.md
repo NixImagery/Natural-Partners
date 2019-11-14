@@ -3,6 +3,7 @@ id: 599
 title: Sustainability of Vanilla
 date: 2018-12-19T13:22:51+00:00
 author: Nick Hood
+creator: Callum White
 layout: post
 guid: https://naturalpartnersproject.org/?p=599
 permalink: /2018/12/19/sustainability-of-vanilla/

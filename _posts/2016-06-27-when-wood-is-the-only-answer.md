@@ -3,6 +3,7 @@ id: 94
 title: When wood is the only answer
 date: 2016-06-27T13:25:00+00:00
 author: Nick Hood
+creator: Stephen Dixon
 layout: post
 guid: /?p=94
 permalink: /2016/06/27/when-wood-is-the-only-answer/
