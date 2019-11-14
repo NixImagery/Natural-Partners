@@ -7,7 +7,7 @@ layout: post
 permalink: /2019/11/14/limestone/
 image: /files/2019/11/limestone.png
 categories:
-  - Science
+  - Chemistry
   - Health and Wellbeing
   - Social Studies
   - Literacy
@@ -15,7 +15,7 @@ categories:
   - Design and Technology
 ---
 
-This presentation presents and idea for a 6-lesson series of practical and enquiry based learning around the topic of limestone. The sequence of lessons is:
+This presentation includes an idea for a 6-lesson series of practical and enquiry based learning around the topic of limestone. The sequence of lessons is:
 
 1. CaCO<sub>3</sub>
 2. Practical – making lime and slaked lime in the lab.
