@@ -25,4 +25,4 @@ In this unit, pupils will learn about the factors driving the growth of megaciti
 
 *Featured image original photo © Nick Hood 2015*
 
-<a href="/files/2019/11/outdoors.pdf">Megacities poster (pdf)</a> <a href="/files/2019/11/megacities.pdf" class="btn btn-sm btn-default" download>Download</a>
+<a href="/files/2019/11/megacities.pdf">Megacities poster (pdf)</a> <a href="/files/2019/11/megacities.pdf" class="btn btn-sm btn-default" download>Download</a>
