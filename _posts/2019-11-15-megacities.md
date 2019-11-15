@@ -16,7 +16,7 @@ categories:
   - Physics
   - Biology
   - Modern Studies 
-  - Religious and Moral Education
+  - RME
 ---
 
 In 2018, 55 % of the world’s population lived in urban areas, and that figure is set to rise to 68 % by 2050,according to the UN Department of Economic and Social Affairs. The world now has 33 megacities, cities with a population greater than 10 million residents, and this number is set to rise to 48 by 2050. Many of these cities are leading centres of commerce and politics in the emerging economies of the global south, and preparing young people to understand the world they live in involves understanding this new kind of urban environment.
