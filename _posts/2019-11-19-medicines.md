@@ -8,7 +8,6 @@ permalink: /2019/11/19/medicines/
 image: /files/2019/11/medicines.png
 categories:
   - Mathematics
-  - Geography
   - Literacy
   - Numeracy
   - Design and Technology
