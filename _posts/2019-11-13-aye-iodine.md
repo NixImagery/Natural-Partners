@@ -8,6 +8,8 @@ permalink: /2019/11/13/aye-iodine/
 image: /files/2019/11/aye-iodine.png
 categories:
   - Science
+  - Chemistry
+  - Biology
   - Health and Wellbeing
   - Social Studies
   - Gaelic
