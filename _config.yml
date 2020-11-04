@@ -15,20 +15,20 @@ tagarray: []
 #   output: true
 #   permalink: /project/:path/
 
-social:
-    - icon: fa-facebook
-      link: "https://www.facebook.com/NaturalPartnersProject/"
-    - icon: fa-twitter
-      link: "https://twitter.com/naturlpartners"
+#social:
+#   - icon: fa-github
+#     link: "https://github.com/cullaloe/Natural-Partners"
+#    - icon: fa-facebook
+#      link: "https://www.facebook.com/NaturalPartnersProject/"
+#    - icon: fa-twitter
+#      link: "https://twitter.com/naturlpartners"
     # - icon: fa-linkedin
     #   link: "#"
     # - icon: fa-stack-exchange
     #   link: "#"
-    # - icon: fa-github
-    #   link: "https://github.com/agusmakmun"
 
-share:
-  twitter_username: naturlpartners
+#share:
+#  twitter_username: naturlpartners
   # fb_appid: 1749788565247320
 
 urls:

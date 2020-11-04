@@ -13,5 +13,3 @@ Yes. You may download, copy and adapt this material free of charge provided that
 
 # That's my image!
 Mistakes are sometimes made. If you think you have identified something here that you own the copyright to, please contact us and provide a link to the offending item and we will promptly remove it from this site.
-
-Follow us on <a href="https://www.facebook.com/NaturalPartnersProject" target="_blank">Facebook</a> and <a href="https://twitter.com/NaturlPartners" target="_blank">Twitter</a>!
