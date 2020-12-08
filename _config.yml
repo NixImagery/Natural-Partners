@@ -10,11 +10,6 @@ avatar_url: /static/img/logo.png
 enableTags: true
 tagarray: []
 
-# collections:
-# project:
-#   output: true
-#   permalink: /project/:path/
-
 #social:
 #   - icon: fa-github
 #     link: "https://github.com/cullaloe/Natural-Partners"
@@ -34,8 +29,6 @@ tagarray: []
 urls:
     - text: About / Information
       url: /about/
-    # - text: Projects
-    #   url: /projects/
     - text: XML Feed
       url: /feed.xml
 
